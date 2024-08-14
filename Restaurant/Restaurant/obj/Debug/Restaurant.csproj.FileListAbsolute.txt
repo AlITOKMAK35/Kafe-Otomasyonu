@@ -1,0 +1,50 @@
+C:\Users\ALİ TOKMAK\Source\Repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\ALİ TOKMAK\Source\Repos\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\ALİ TOKMAK\Source\Repos\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\ALİ TOKMAK\Source\Repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\ALİ TOKMAK\Source\Repos\Restaurant\Restaurant\obj\Debug\Restaurant.LimitCafe.resources
+C:\Users\ALİ TOKMAK\Source\Repos\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\ALİ TOKMAK\Source\Repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\ALİ TOKMAK\Source\Repos\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\ALİ TOKMAK\Source\Repos\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\ALİ TOKMAK\Source\Repos\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant 2\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant 2\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant 2\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant 2\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant 2\Restaurant\Restaurant\obj\Debug\Restaurant.LimitCafe.resources
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant 2\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant 2\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant 2\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant 2\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant 2\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant3\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant3\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant3\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.LimitCafe.resources
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\ALİ TOKMAK\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+D:\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+D:\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+D:\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+D:\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+D:\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.LimitCafe.resources
+D:\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+D:\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+D:\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+D:\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+D:\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\SONNNNN\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\SONNNNN\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\SONNNNN\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\SONNNNN\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.AssemblyReference.cache
+C:\SONNNNN\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.LimitCafe.resources
+C:\SONNNNN\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\SONNNNN\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\SONNNNN\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\SONNNNN\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\SONNNNN\Harici Disk\Source\Repos\restaurant3\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
