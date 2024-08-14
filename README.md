@@ -70,13 +70,6 @@ Raporlama: RaporlarAna formu çeşitli raporları sunar.
 Günlük Giderler: GunlukGiderler formu günlük giderleri takip eder.
 Ayarlar: AyarlarGiris formu uygulama ayarlarını yapılandırır.
 
-Katkıda Bulunma
-Katkıda bulunmak isteyenler:
-
-Fork yapın ve kendi kopyanızı oluşturun.
-Yeni bir branch oluşturun.
-Değişikliklerinizi yapın ve commit yapın.
-Push yapın ve bir pull request oluşturun.
 
 İletişim
 Sorular veya geri bildirimler için iletişim:
