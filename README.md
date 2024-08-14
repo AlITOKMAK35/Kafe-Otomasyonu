@@ -63,11 +63,17 @@ IDE: Visual Studio
 
 Kod Yapısı
 Anasayfa: Anasayfa formu, uygulamanın ana menüsünü içerir ve diğer formlara geçiş sağlar.
+
 Masa Yönetimi: SalonMasalar ve BahceMasalar formları iç mekan ve dış mekan masalarını yönetir.
+
 Sipariş Yönetimi: SiparisAna formu sipariş işlemlerini yönetir.
+
 Stok Yönetimi: StokTakibiAna formu stok durumunu takip eder.
+
 Raporlama: RaporlarAna formu çeşitli raporları sunar.
+
 Günlük Giderler: GunlukGiderler formu günlük giderleri takip eder.
+
 Ayarlar: AyarlarGiris formu uygulama ayarlarını yapılandırır.
 
 
