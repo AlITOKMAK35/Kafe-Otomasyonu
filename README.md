@@ -44,24 +44,34 @@ cd Restoran-Otomasyonu
 Projeyi Açın ve Çalıştırın:
 
 Visual Studio'da RestoranOtomasyonu.sln dosyasını açın.
+
 F5 tuşuna basarak projeyi çalıştırın.
 
 Ana Ekran:
 
 Masa Yönetimi: btnMasalar butonuna tıklayarak iç mekan ve dış mekan masalarını yönetin.
+
 Peşin Satış: btnPesinSatis butonuna tıklayarak peşin satış işlemleri gerçekleştirin.
+
 Stok Takibi: btnStokTakibi butonuna tıklayarak stok durumunu kontrol edin.
+
 Raporlama: btnRaporlar butonuna tıklayarak satış raporlarını ve performans verilerini görüntüleyin.
+
 Günlük Giderler: btnGunlukGiderler butonuna tıklayarak günlük giderleri takip edin.
+
 Ayarlar: btnAyarlar butonuna tıklayarak uygulama ayarlarını yapılandırın.
+
 Çıkış: btnCikis butonuna tıklayarak uygulamadan çıkış yapın.
 
 Teknolojiler
 Dil: C#
+
 Platform: Windows Forms
+
 IDE: Visual Studio
 
 Kod Yapısı
+
 Anasayfa: Anasayfa formu, uygulamanın ana menüsünü içerir ve diğer formlara geçiş sağlar.
 
 Masa Yönetimi: SalonMasalar ve BahceMasalar formları iç mekan ve dış mekan masalarını yönetir.
